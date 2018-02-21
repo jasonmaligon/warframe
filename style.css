@@ -1,0 +1,106 @@
+.text {
+  font-family: Orbitron, sans-serif;
+}
+.ui.borderless.container.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.simple.dropdown.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.image.item {
+  width: 80px;
+  margin-top: -10px;
+  margin-right: -10px;
+}
+
+.ui.item {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.ui.button {
+  background-color: red;
+  color: white;
+}
+
+.grad-background {
+  background: url(https://n8k6e2y6.ssl.hwcdn.net/uploads/7f14d0d0ac93f5d88d1f7482cc0500ef.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 622px;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+  width: 50%;
+  height: auto;
+  color: white;
+  font-size: 20px;
+}
+
+.overlay-2 {
+  position: absolute;
+  bottom: 280px;
+  left: 250px;
+  width: 50%;
+  height: auto;
+  color: white;
+  font-size: 20px;
+}
+
+.overlay-3 {
+  position: absolute;
+  bottom: 240px;
+  left: 250px;
+  width: 50%;
+  height: auto;
+  color: white;
+  font-size: 12px;
+  font-family: Open-Sans, sans-serif;
+}
+
+.overlay-4 {
+  position: absolute;
+  bottom: 225px;
+  left: 250px;
+  width: 50%;
+  height: auto;
+  color: white;
+  font-size: 12px;
+  font-family: Open-Sans, sans-serif;
+}
+
+.overlay-5{
+  position: absolute;
+  bottom: 180px;
+  left: 250px;
+  width: 120px;
+  height: auto;
+  color: white;
+  background-color: red;
+  font-size: 12px;
+  padding-left: 10px;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.fluid.centered.three.column.grid {
+  background-color: black;
+  bottom: 50px;
+}
+
+.gray-background {
+  background-color: whitesmoke;
+  height: 400px;
+}
+
+.ui.center.borderless.menu {
+  border: none;
+  box-shadow: none;
+  background: whitesmoke;
+}
